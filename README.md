@@ -30,7 +30,7 @@ Confirm format and price on the official AWS Certification page before booking.
 | Day | Date | Topic | Notes |
 | --- | --- | --- | --- |
 | 1 | 2026-10-30 | Global infrastructure, IAM, Organizations | [day-01](days/day-01-global-infra-iam.md) |
-| 2 | 2026-10-31 | EC2, EBS, instance store, AMIs, purchasing options | — |
+| 2 | 2026-10-31 | EC2, EBS, instance store, AMIs, purchasing options | [day-02](days/day-02-ec2-ebs.md) |
 | 3 | 2026-11-01 | ELB (ALB/NLB/GWLB), Auto Scaling | — |
 | 4 | 2026-11-02 | VPC networking, endpoints, hybrid connectivity | — |
 | 5 | 2026-11-03 | S3, EFS, FSx, Storage Gateway | — |
