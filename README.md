@@ -33,7 +33,7 @@ Confirm format and price on the official AWS Certification page before booking.
 | 2 | 2026-10-31 | EC2, EBS, instance store, AMIs, purchasing options | [day-02](days/day-02-ec2-ebs.md) |
 | 3 | 2026-11-01 | ELB (ALB/NLB/GWLB), Auto Scaling | [day-03](days/day-03-elb-auto-scaling.md) |
 | 4 | 2026-11-02 | VPC networking, endpoints, hybrid connectivity | [day-04](days/day-04-vpc-networking.md) |
-| 5 | 2026-11-03 | S3, EFS, FSx, Storage Gateway | — |
+| 5 | 2026-11-03 | S3, EFS, FSx, Storage Gateway | [day-05](days/day-05-s3-efs-fsx-storage-gateway.md) |
 | 6 | 2026-11-04 | RDS, Aurora, DynamoDB, ElastiCache, Redshift | — |
 | 7 | 2026-11-05 | Review + Practice Exam 1 | — |
 | 8 | 2026-11-06 | SQS, SNS, EventBridge, Kinesis, Lambda, API Gateway, Step Functions | — |
