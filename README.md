@@ -35,7 +35,7 @@ Confirm format and price on the official AWS Certification page before booking.
 | 4 | 2026-11-02 | VPC networking, endpoints, hybrid connectivity | [day-04](days/day-04-vpc-networking.md) |
 | 5 | 2026-11-03 | S3, EFS, FSx, Storage Gateway | [day-05](days/day-05-s3-efs-fsx-storage-gateway.md) |
 | 6 | 2026-11-04 | RDS, Aurora, DynamoDB, ElastiCache, Redshift | [day-06](days/day-06-databases.md) |
-| 7 | 2026-11-05 | Review + Practice Exam 1 | — |
+| 7 | 2026-11-05 | Review + Practice Exam 1 | [day-07](days/day-07-review-practice-exam-1.md) |
 | 8 | 2026-11-06 | SQS, SNS, EventBridge, Kinesis, Lambda, API Gateway, Step Functions | — |
 | 9 | 2026-11-07 | ECS/EKS/Fargate, Route 53, CloudFront, Global Accelerator | — |
 | 10 | 2026-11-08 | KMS, Secrets Manager, WAF/Shield, GuardDuty & co, Cognito | — |
