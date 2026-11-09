@@ -39,7 +39,7 @@ Confirm format and price on the official AWS Certification page before booking.
 | 8 | 2026-11-06 | SQS, SNS, EventBridge, Kinesis, Lambda, API Gateway, Step Functions | [day-08](days/day-08-serverless-messaging.md) |
 | 9 | 2026-11-07 | ECS/EKS/Fargate, Route 53, CloudFront, Global Accelerator | [day-09](days/day-09-containers-edge.md) |
 | 10 | 2026-11-08 | KMS, Secrets Manager, WAF/Shield, GuardDuty & co, Cognito | [day-10](days/day-10-security-services.md) |
-| 11 | 2026-11-09 | DR strategies, Backup, migration, CloudWatch/CloudTrail/Config | — |
+| 11 | 2026-11-09 | DR strategies, Backup, migration, CloudWatch/CloudTrail/Config | [day-11](days/day-11-dr-migration-monitoring.md) |
 | 12 | 2026-11-10 | Analytics, cost tools + Practice Exam 2 | — |
 | 13 | 2026-11-11 | Gap-closing + Practice Exam 3 | — |
 | 14 | 2026-11-12 | Light review, cheat sheet, rest | — |
