@@ -41,7 +41,7 @@ Confirm format and price on the official AWS Certification page before booking.
 | 10 | 2026-11-08 | KMS, Secrets Manager, WAF/Shield, GuardDuty & co, Cognito | [day-10](days/day-10-security-services.md) |
 | 11 | 2026-11-09 | DR strategies, Backup, migration, CloudWatch/CloudTrail/Config | [day-11](days/day-11-dr-migration-monitoring.md) |
 | 12 | 2026-11-10 | Analytics, cost tools + Practice Exam 2 | [day-12](days/day-12-analytics-cost-practice-exam-2.md) |
-| 13 | 2026-11-11 | Gap-closing + Practice Exam 3 | — |
+| 13 | 2026-11-11 | Gap-closing + Practice Exam 3 | [day-13](days/day-13-gap-closing-practice-exam-3.md) |
 | 14 | 2026-11-12 | Light review, cheat sheet, rest | — |
 
 ## Exam-day tactics
